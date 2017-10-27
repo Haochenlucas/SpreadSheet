@@ -1,0 +1,8 @@
+C:\Users\sbenw\Documents\GitHub\SpreadSheet-NULL\Client\SpreadsheetPanel\bin\Debug\SpreadsheetPanel.XML
+C:\Users\sbenw\Documents\GitHub\SpreadSheet-NULL\Client\SpreadsheetPanel\bin\Debug\SpreadsheetPanel.dll
+C:\Users\sbenw\Documents\GitHub\SpreadSheet-NULL\Client\SpreadsheetPanel\bin\Debug\SpreadsheetPanel.pdb
+C:\Users\sbenw\Documents\GitHub\SpreadSheet-NULL\Client\SpreadsheetPanel\obj\Debug\SpreadsheetPanel.csprojResolveAssemblyReference.cache
+C:\Users\sbenw\Documents\GitHub\SpreadSheet-NULL\Client\SpreadsheetPanel\obj\Debug\SS.Properties.Resources.resources
+C:\Users\sbenw\Documents\GitHub\SpreadSheet-NULL\Client\SpreadsheetPanel\obj\Debug\SpreadsheetPanel.csproj.GenerateResource.Cache
+C:\Users\sbenw\Documents\GitHub\SpreadSheet-NULL\Client\SpreadsheetPanel\obj\Debug\SpreadsheetPanel.dll
+C:\Users\sbenw\Documents\GitHub\SpreadSheet-NULL\Client\SpreadsheetPanel\obj\Debug\SpreadsheetPanel.pdb
