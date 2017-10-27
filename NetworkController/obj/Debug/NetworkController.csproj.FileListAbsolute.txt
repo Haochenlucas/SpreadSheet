@@ -1,0 +1,10 @@
+C:\Users\sbenw\Source\Repos\01088102\Snake\NetworkController\bin\Debug\NetworkController.dll
+C:\Users\sbenw\Source\Repos\01088102\Snake\NetworkController\bin\Debug\NetworkController.pdb
+C:\Users\sbenw\Source\Repos\01088102\Snake\NetworkController\obj\Debug\NetworkController.dll
+C:\Users\sbenw\Source\Repos\01088102\Snake\NetworkController\obj\Debug\NetworkController.pdb
+C:\Users\sbenw\Source\Repos\01088102\Snake\NetworkController\obj\Debug\NetworkController.csprojResolveAssemblyReference.cache
+C:\Users\sbenw\Documents\GitHub\SpreadSheet-NULL\Client\NetworkController\bin\Debug\NetworkController.dll
+C:\Users\sbenw\Documents\GitHub\SpreadSheet-NULL\Client\NetworkController\bin\Debug\NetworkController.pdb
+C:\Users\sbenw\Documents\GitHub\SpreadSheet-NULL\Client\NetworkController\obj\Debug\NetworkController.csprojResolveAssemblyReference.cache
+C:\Users\sbenw\Documents\GitHub\SpreadSheet-NULL\Client\NetworkController\obj\Debug\NetworkController.dll
+C:\Users\sbenw\Documents\GitHub\SpreadSheet-NULL\Client\NetworkController\obj\Debug\NetworkController.pdb

@@ -1,0 +1,12 @@
+C:\Users\sbenw\Source\Repos\01088102\PS3\Formula\bin\Debug\Formula.dll
+C:\Users\sbenw\Source\Repos\01088102\PS3\Formula\bin\Debug\Formula.pdb
+C:\Users\sbenw\Source\Repos\01088102\PS3\Formula\obj\Debug\Formula.csprojResolveAssemblyReference.cache
+C:\Users\sbenw\Source\Repos\01088102\PS3\Formula\obj\Debug\Formula.dll
+C:\Users\sbenw\Source\Repos\01088102\PS3\Formula\obj\Debug\Formula.pdb
+C:\Users\sbenw\Source\Repos\01088102\PS3\Formula\bin\Debug\Formula.XML
+C:\Users\sbenw\Documents\GitHub\SpreadSheet-NULL\Client\Formula\bin\Debug\Formula.XML
+C:\Users\sbenw\Documents\GitHub\SpreadSheet-NULL\Client\Formula\bin\Debug\Formula.dll
+C:\Users\sbenw\Documents\GitHub\SpreadSheet-NULL\Client\Formula\bin\Debug\Formula.pdb
+C:\Users\sbenw\Documents\GitHub\SpreadSheet-NULL\Client\Formula\obj\Debug\Formula.csprojResolveAssemblyReference.cache
+C:\Users\sbenw\Documents\GitHub\SpreadSheet-NULL\Client\Formula\obj\Debug\Formula.dll
+C:\Users\sbenw\Documents\GitHub\SpreadSheet-NULL\Client\Formula\obj\Debug\Formula.pdb
